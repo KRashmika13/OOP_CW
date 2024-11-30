@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbe52d74-aaa1-4572-86bd-2fe520747dff" name="Changes" comment="added validation to validation checker class" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KRashmika13&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KRashmika13/OOP_CW.git&quot;,
+    &quot;accountId&quot;: &quot;086f53d0-ad1b-41ef-a523-c5a99ac6ad0e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ogoWEotOTR2hB1YVtkjdqL8wnq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/OOPCW",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/W2051707_OOPCW/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbe52d74-aaa1-4572-86bd-2fe520747dff" name="Changes" comment="" />
+      <created>1731300612820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731300612820</updated>
+      <workItem from="1731300613849" duration="1965000" />
+      <workItem from="1731689237462" duration="4005000" />
+      <workItem from="1731694775757" duration="1075000" />
+      <workItem from="1731863671985" duration="4766000" />
+      <workItem from="1732938236017" duration="2805000" />
+      <workItem from="1732941070234" duration="1143000" />
+      <workItem from="1732942229639" duration="32000" />
+      <workItem from="1732942443463" duration="4734000" />
+      <workItem from="1732969842108" duration="1663000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1731300748949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731300748949</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1731301383572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731301383572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="crate Configaration class">
+      <option name="closed" value="true" />
+      <created>1731689413385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731689413385</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modified main class">
+      <option name="closed" value="true" />
+      <created>1731693217101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731693217101</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create constructor in Configaration class">
+      <option name="closed" value="true" />
+      <created>1731693425904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731693425904</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modified Configaration class">
+      <option name="closed" value="true" />
+      <created>1731693599651</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731693599651</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modified main class">
+      <option name="closed" value="true" />
+      <created>1731695372636</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731695372636</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create validation checker class">
+      <option name="closed" value="true" />
+      <created>1731864435475</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731864435475</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add validation to main class">
+      <option name="closed" value="true" />
+      <created>1731868227742</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731868227742</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added validation to validation checker class">
+      <option name="closed" value="true" />
+      <created>1731868270220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731868270220</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="crate Configaration class" />
+    <MESSAGE value="create constructor in Configaration class" />
+    <MESSAGE value="modified Configaration class" />
+    <MESSAGE value="modified main class" />
+    <MESSAGE value="create validation checker class" />
+    <MESSAGE value="add validation to main class" />
+    <MESSAGE value="added validation to validation checker class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added validation to validation checker class" />
+  </component>
+</project>

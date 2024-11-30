@@ -1,3 +1,5 @@
+package ticketManager;
+
 import java.io.Serializable;
 
 public class Configaration implements Serializable {

@@ -1,4 +1,4 @@
-package ticketManager;
+package ticketManage;
 
 import java.util.Scanner;
 

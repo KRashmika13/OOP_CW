@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbe52d74-aaa1-4572-86bd-2fe520747dff" name="Changes" comment="added validation to validation checker class" />
+    <list default="true" id="dbe52d74-aaa1-4572-86bd-2fe520747dff" name="Changes" comment="create ticketManage package" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,13 +55,33 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/W2051707_OOPCW/src/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\OOPCW\src\main\java\ticketManage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="OOPCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="OOPCW" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,6 +107,7 @@
       <workItem from="1732942229639" duration="32000" />
       <workItem from="1732942443463" duration="4734000" />
       <workItem from="1732969842108" duration="1663000" />
+      <workItem from="1732971574557" duration="1207000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -168,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731868270220</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="did some changes">
+      <option name="closed" value="true" />
+      <created>1732971764566</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732971764566</updated>
+    </task>
+    <task id="LOCAL-00012" summary="create ticketManage package">
+      <option name="closed" value="true" />
+      <created>1732972243604</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732972243604</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +221,8 @@
     <MESSAGE value="create validation checker class" />
     <MESSAGE value="add validation to main class" />
     <MESSAGE value="added validation to validation checker class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added validation to validation checker class" />
+    <MESSAGE value="did some changes" />
+    <MESSAGE value="create ticketManage package" />
+    <option name="LAST_COMMIT_MESSAGE" value="create ticketManage package" />
   </component>
 </project>
